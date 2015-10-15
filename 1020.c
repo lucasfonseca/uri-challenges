@@ -20,7 +20,5 @@ int main(int argc, char const *argv[])
 	printf("%d mes(s)\n", meses );
 	printf("%d dia(s)\n", dias);
 
-
-
 	return 0;
 }
